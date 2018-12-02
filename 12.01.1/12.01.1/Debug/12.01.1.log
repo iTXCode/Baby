@@ -1,0 +1,4 @@
+﻿  test.c
+d:\dev c++\my project\自己敲的代码\baby\12.01.1\12.01.1\test.c(8): error C2057: 应输入常量表达式
+d:\dev c++\my project\自己敲的代码\baby\12.01.1\12.01.1\test.c(8): error C2466: 不能分配常量大小为 0 的数组
+d:\dev c++\my project\自己敲的代码\baby\12.01.1\12.01.1\test.c(8): error C2133: “a”: 未知的大小
